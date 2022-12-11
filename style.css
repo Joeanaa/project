@@ -1,0 +1,36 @@
+.heading {
+  width: 100%;
+  margin: 0;
+  font-size: 20px;
+}
+.note {
+  color: blueviolet;
+  font-size: 15px;
+}
+.batn {
+  width: 100px;
+  height: 40px;
+}
+img {
+  width: 250px;
+  border-radius: 100%;
+}
+.speeddiv {
+  float: left;
+}
+.speedbutton {
+  background-color: rgb(2, 236, 253);
+  color: aliceblue;
+}
+.volumebutton {
+  background-color: rgb(2, 236, 253);
+  color: aliceblue;
+}
+.volumediv {
+  float: right;
+}
+canvas {
+  background-color: black;
+  border-radius: 15px;
+  border: 8px solid white;
+}
